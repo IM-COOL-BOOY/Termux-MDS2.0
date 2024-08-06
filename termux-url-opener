@@ -26,7 +26,7 @@ echo -e "\e[031m" "     ▀▄▒▒▒▒▒▒▒▒▒▄▀    -------------
 echo -e "\e[031m" "     █────▀────█       Check out my Github"
 echo -e "\e[031m" "     █────▀────█       For More info...   "
 echo -e "\e[036m" "╔════════════════════════════════════════╗"                                                                          
-echo -e "\e[032m" "║ ♚ Project Name : Termux-MDS2.0"        ║"
+echo -e "\e[032m" "║ ♚ Project Name : Termux-MDS2.0"         ║"
 echo -e "\e[032m" "║ ♚ Author : IM-COOL-BOOY                ║"
 echo -e "\e[032m" "║ ♚ Github : github.com/IM-COOL-BOOY     ║"
 echo -e "\e[032m" "║ ♚ 𝗣𝗢𝗪𝗘𝗥 𝗕𝗬 : SRILANKA (SL)             ║"
