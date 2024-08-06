@@ -5,7 +5,7 @@
 Termux-MDS2.0 is a Upgraded version of Termux-MDS"Since Youtube-dl really slow know Termux-MDS2.0 is still downloading things but really slow and Termux-MDS2.0 overcomes that problem. I have added all the previous features of Termux-MDS2.0 as well as added youtube shorts support. So now while watching shorts you can just share any shorts with termux and it will download it at a lightning speed.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/32749921/197327887-c4aca7fc-e475-4175-a289-08af6dceb340.png">
+<img src="https://github.com/user-attachments/assets/0d7280aa-2f17-45ac-9e20-5397001d2327">
 </p>
   
 <p align="center">
