@@ -25,16 +25,49 @@ facebook💜️: https://www.facebook.com/profile.php?id=100054328662753 <br>
 <br>
 <br>
 
-### Installation:
+### Installation: [you termux]
 
 ```
-pkg install git 
+termux-setup-storage
+```
+```
+apt update && apt upgrade -y
+```
+```
+apt install git
+```
+```
+pkg install python -y
+```
+```
+pkg install zsh wget ffmpeg
+```
+```
+pkg install python3 aria2 ffmpeg jq termux-api
+```
+```
+pkg install transmission
+```
+```
+pip install youtube_dl
+```
+```
+pip install setuptools-git
+```
+```
+pip install --upgrade yt-dlp
+```
+```
+pip install yt-dlp
 ```
 ```
 git clone https://github.com/IM-COOL-BOOY/Termux-MDS2.0.git/
 ```
 ```
 cd Termux-MDS2.0
+```
+```
+chmod +x *
 ```
 ```
 bash install.sh
