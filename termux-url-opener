@@ -6,7 +6,7 @@
 
 # SETTINGS THAT YOU CAN CHANGE-----
 
-fpath='/data/data/com.termux/files/home/storage/shared/MY=TERMUX=ALL=TOOL=FOLDER/IM-COOL-BOOY/Youtube/%(title)s.%(ext)s'
+fpath='/data/data/com.termux/files/home/storage/shared/IM-COOL-BOOY/%(title)s.%(ext)s'
 
 # ----------
 
